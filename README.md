@@ -1,5 +1,8 @@
 # proj2-data-and-model
-Install sqlite3 and surprise packages to run the main fucntion.
+Install sqlite3 and surprise packages with pip.
+```
+pip install package_name
+```
 
 data_processing.ipynb makes yelp.db for future use from REVIEW.csv and BUSINESS.csv
 
